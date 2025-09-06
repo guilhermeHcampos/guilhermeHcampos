@@ -1,6 +1,6 @@
 ### Olá, eu sou Guilherme Henrique 👋
 
-Atualmente estudando e aumentando meu portfólio.
+Atualmente estudando e aumentando meu portfólio. \n
 Busco oportunidade de estágio
 
 ---
