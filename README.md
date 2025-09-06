@@ -1,4 +1,4 @@
-### Ola sou 👋 Guilherme Henrique
+### Olá, eu sou Guilherme Henrique 👋
 
 Atualmente estudando e aumentando meu portfólio.
 
