@@ -6,7 +6,7 @@ Atualmente estudando e aumentando meu portfólio.
 
 ### 📚 Cursos
 
-Cursando analise e desenvolvimento de sistemas - Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino
+Cursando analise e desenvolvimento de sistemas - Fatec Franca Faculdade de Tecnologia de Franca Dr Thomaz Novelino
 
 ---
 
