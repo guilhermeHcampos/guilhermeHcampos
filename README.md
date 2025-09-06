@@ -26,6 +26,6 @@ Atualmente estudando e aumentando meu portfólio.
 
 ## GitHub Stats:
  <p align="left">
-    <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=andreluisxw&show_icons=true&locale=en&theme=dracula" alt="andreluisxcw"/>
-  <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=andreluisxw&theme=dracula" alt="andreluisxw" />
+    <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermeHcampos&show_icons=true&locale=en&theme=tokyonight" alt="andreluisxcw"/>
+  <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeHcampos&theme=tokyonight" alt="andreluisxw" />
 </p>
