@@ -24,6 +24,8 @@ Atualmente estudando e aumentando meu portfólio.
 
 ### 📊 Minhas Estatísticas no GitHub
 
-[![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-DO-GITHUB&theme=tokyonight)](https://git.io/streak-stats)
+## GitHub Stats:
+ <p align="left">
+    <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=andreluisxw&show_icons=true&locale=en&theme=dracula" alt="andreluisxcw"/>
+  <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=andreluisxw&theme=dracula" alt="andreluisxw" />
+</p>
