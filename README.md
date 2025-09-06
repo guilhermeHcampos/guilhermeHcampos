@@ -35,3 +35,7 @@ Cursando analise e desenvolvimento de sistemas - Fatec Franca Faculdade de Tecno
     <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermeHcampos&show_icons=true&locale=en&theme=tokyonight" alt="andreluisxcw"/>
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeHcampos&theme=tokyonight" alt="andreluisxw" />
 </p>
+
+(https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-DO-GITHUB&theme=dracula)](https://git.io/streak-stats)
